@@ -1,7 +1,7 @@
 /*
     Author @Gaurav Amarnani.
     Published @17 January, 2021, 11:30 AM.
-    Question 1 : Sum of two numbers.
+    Question 2 : Sum of two numbers.
 */
 
 package com.byGaurav.basics;
