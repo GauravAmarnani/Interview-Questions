@@ -1,7 +1,7 @@
 /*
     Author @Gaurav Amarnani.
     Published @18 January, 2021, 6:25 PM.
-    Question 2 : Mathematical calculations on two numbers.
+    Question 6 : Mathematical calculations on two numbers.
 */
 
 package com.byGaurav.basics;
